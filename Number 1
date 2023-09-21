@@ -1,0 +1,6 @@
+
+Program = Not-Finish
+if Progra == Finish:
+  print("Good")
+else:
+  print("No way")
